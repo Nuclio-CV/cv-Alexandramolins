@@ -1,0 +1,6 @@
+title: Alexandra Molins Robert
+logo: "Jordi Galobart.png"
+description: Full Stack Developer
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
